@@ -1,4 +1,4 @@
-# Exporter Projet Unity  en tant que bibliothèque Android :  <br /> 
+# Exporter Projet Unity  en tant que Library Android :  <br /> 
 
  Pour exporter le projet, je me suis allée dans le menu "Fichier" et j'ai cliqué sur "Build Settings", là je pus exporter le projet Unity en tant que projet compatible Android Studio.  <br /> 
 J'ai ciblé la plateforme Android et d'avoir coché la case "Exporter le projet". comme indiqué ici: <br /> 
